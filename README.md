@@ -3,16 +3,16 @@ Word saliency development for the training of non-autoregressive logical data-to
 
 The files in the repository are described below.
 
-1. Code
+Code
 
-a) saliency_scorers.py:
+1. saliency_scorers.py:
   
-b) average_score_generation.py:
+2. average_score_generation.py:
   
-c) saliency_visualization.py:
+3. saliency_visualization.py:
 
 
-2. Data
+Data
 
 a) logicnlg_training_sentences.txt:
 
