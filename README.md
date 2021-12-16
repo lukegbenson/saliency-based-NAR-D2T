@@ -5,7 +5,9 @@ The files in the repository ar
 
 1. Code
   a) saliency_scorers.py:
+  
   b) average_score_generation.py:
+  
   c) saliency_visualization.py:
 
 2. Data
