@@ -14,19 +14,19 @@ Code
 
 Data
 
-1. **logicnlg_training_sentences.txt**:
+1. **logicnlg_training_sentences.txt**: training sentences extracted from LogicNLG training file
 
-2. **totto_training_sentences.txt**:
+2. **totto_training_sentences.txt**: training sentences extracted from ToTTo training file
 
-3. **logicnlg_average_scores_final.json**:
+3. **logicnlg_average_scores_final.json**: average saliency score for each word appearing in LogicNLG
 
-4. **totto_average_scores_final.json**:
+4. **totto_average_scores_final.json**: average saliency score for each word appearing in ToTTo
 
-5. **train_lm.json**:
+5. **train_lm.json**: LogicNLG train set file
 
-6. **test_lm.json**:
+6. **test_lm.json**: LogicNLG test set file
 
-7. **standard-mp-test.json**:
+7. **standard_mp_test.json**: generations for LogicNLG test set using standard mask-predict decoding
 
-8. **saliency-mp-test.json**:
+8. **saliency_mp_test.json**: generations for LogicNLG test set using saliency-infused mask-predict decoding
   
