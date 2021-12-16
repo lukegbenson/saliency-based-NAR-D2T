@@ -14,19 +14,19 @@ Code
 
 Data
 
-a) logicnlg_training_sentences.txt:
+1. logicnlg_training_sentences.txt:
 
-b) totto_training_sentences.txt:
+2. totto_training_sentences.txt:
 
-c) logicnlg_average_scores_final.json:
+3. logicnlg_average_scores_final.json:
 
-d) totto_average_scores_final.json:
+4. totto_average_scores_final.json:
 
-e) train_lm.json:
+5. train_lm.json:
 
-f) test_lm.json:
+6. test_lm.json:
 
-g) standard-mask-predict-test-generations.json:
+7. standard-mask-predict-test-generations.json:
 
-h) saliency-infused-mask-predict-test-generations.json:
+8. saliency-infused-mask-predict-test-generations.json:
   
