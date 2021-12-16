@@ -5,11 +5,11 @@ The files in the repository are described below.
 
 Code
 
-1. saliency_scorers.py:
+1. saliency_scorers.py: development of three word saliency scoring functions
   
-2. average_score_generation.py:
+2. average_score_generation.py: production of average salience score dictionaries for a given data set
   
-3. saliency_visualization.py:
+3. saliency_visualization.py: visualizing saliency scores within a sentence
 
 
 Data
